@@ -19,3 +19,16 @@ Aims:
 
 In this notebook the computational tool, Starfysh, is used to combine histology and spatial transcriptomics to deconvolute cell states and evaluate tumor heterogeneity and identify spatial hubs within tissues. 
 
+Some visualizations:
+
+Overlay of tissue sample colored by hubs 
+<img width="689" alt="Screenshot 2025-01-04 at 4 12 57 PM" src="https://github.com/user-attachments/assets/3499ae7e-437a-4f16-966e-c02d3b0c24fe" />
+
+
+UMAP Spatial Hubs calculated by Louvain algorithm
+
+<img width="693" alt="Screenshot 2025-01-04 at 4 12 41 PM" src="https://github.com/user-attachments/assets/adc48583-b121-4477-b5bf-4c3a2a99394b" />
+
+Correlation Matrix between cell type and gene expression
+<img width="1134" alt="Screenshot 2025-01-04 at 4 12 14 PM" src="https://github.com/user-attachments/assets/8dca7f62-2feb-4bbc-b02d-1a9cb2fe52b0" />
+
