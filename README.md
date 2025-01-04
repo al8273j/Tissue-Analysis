@@ -36,5 +36,6 @@ UMAP Spatial Hubs calculated by Louvain algorithm
 Correlation Matrix between cell type and gene expression
 
 
-<img width="500" alt="Screenshot 2025-01-04 at 4 12 14 PM" src="https://github.com/user-attachments/assets/8dca7f62-2feb-4bbc-b02d-1a9cb2fe52b0" />
+<img width="1125" alt="Screenshot 2025-01-04 at 4 11 37 PM" src="https://github.com/user-attachments/assets/dd0605ef-b5ad-4d42-83b8-c60747eb025f" />
+
 
