@@ -17,5 +17,5 @@ Aims:
 
 - Compare the differences in the spatial organization of cell types and transcriptional signatures between responders and non-responders
 
-In this notebook: 
-- 
+In this notebook the computational tool, Starfysh, is used to combine histology and spatial transcriptomics to deconvolute cell states and evaluate tumor heterogeneity and identify spatial hubs within tissues. 
+
